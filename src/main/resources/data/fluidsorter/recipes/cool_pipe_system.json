@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fs_cool_pipe",
+  "pattern": [
+    "# #",
+    "G G",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:barrel"
+    },
+    "G":
+    {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "fluidsorter:cool_pipe_system"
+  }
+}

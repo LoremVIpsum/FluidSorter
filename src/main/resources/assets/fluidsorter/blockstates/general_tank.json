@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fluidsorter:block/general_tank"
+    }
+  }
+}

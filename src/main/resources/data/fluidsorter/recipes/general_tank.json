@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fs_generaltank",
+  "pattern": [
+    "#I#",
+    "I I",
+    "#I#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "I":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "fluidsorter:general_tank"
+  }
+}

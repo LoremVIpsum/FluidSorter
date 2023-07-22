@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "fluidsorter",
+	"version": "${version}",
+	"name": "LoremV's Fluid Sorting Gadgets",
+	"description": "A mod about fluids, and sorting, a fluid sorter if you will.",
+	"authors": [
+		"LoremV"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/fluidsorter/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "com.loremv.FluidSorter"
+		],
+		"client":
+		[
+			"com.loremv.ClientThings"
+		]
+	},
+	"mixins": [
+		"fluidsorter.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.19.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

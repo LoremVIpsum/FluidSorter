@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fs_infintewater",
+  "pattern": [
+    "# #",
+    "G G",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:amethyst_block"
+    },
+    "G":
+    {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "fluidsorter:infinite_water_tank"
+  }
+}

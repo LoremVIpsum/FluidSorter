@@ -13,7 +13,7 @@ it should work with any combination of fluids as long as the block below has at 
 
 The infinite water tank does exactly what it says, you can extract an infinite amount of water from it, either using any mods pipes or with a bucket.
 
-![a normal tank, kinda](https://i.ibb.co/rfhRT1W/image-2023-07-22-145332640.png)
+![a normal tank kinda](https://i.ibb.co/rfhRT1W/image-2023-07-22-145332640.png)
 
 The general tank stores 27 (the same as a chest) of most liquids, if you interact with it, it will tell you how many buckets are stored within it, it should work like any tank, most of the time.
 

@@ -17,6 +17,13 @@ The infinite water tank does exactly what it says, you can extract an infinite a
 
 The general tank stores 27 (the same as a chest) of most liquids, if you interact with it, it will tell you how many buckets are stored within it, it should work like any tank, most of the time.
 
+![The super sorter](https://i.ibb.co/rkThQ10/image-2023-07-24-221534774.png)
+
+The super sorter makes this mod vaguely generically useful, although currently is a more end game item - it allows any fluids to be moved from any block around it to any other block around it.
+This block comes with a basic GUI where you can click the fluid input from each side and a hashtag with a colour will denote which direction this will be exported to.
+
+![The Super sorter working](https://i.ibb.co/C0DBDNS/ezgif-4-e1f33a7b39.gif)
+
 
 # future plans
-I have considered a block that automatically fills all fluid holding devices in the area with a given fluid (a bit like the old Everfull Urn from Thaumcraft) and also a more configurable sorting block that can deal with multiple directions, however right now this mod is here to deal with a niche-ish problem so I'm not sure when these plan will have action taken on them.
+I have considered a block that automatically fills all fluid holding devices in the area with a given fluid (a bit like the old Everfull Urn from Thaumcraft) ~~and also a more configurable sorting block that can deal with multiple directions, however right now this mod is here to deal with a niche-ish problem so I'm not sure when these plan will have action taken on them~~.

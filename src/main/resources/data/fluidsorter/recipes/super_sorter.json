@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fs_super_sorter",
+  "pattern": [
+    "# #",
+    "GSG",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:barrel"
+    },
+    "G":
+    {
+      "item": "minecraft:glass"
+    },
+    "S":
+    {
+      "item": "minecraft:shulker_box"
+    }
+  },
+  "result": {
+    "item": "fluidsorter:super_sorter"
+  }
+}
